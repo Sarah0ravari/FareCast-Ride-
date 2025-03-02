@@ -8,8 +8,8 @@ Develop a machine learning model that dynamically optimizes ride fares based on 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/price-optimizer.git
-cd price-optimizer
+git clone https://github.com/your-username/FareCast-Ride-.git
+cd FareCast-Ride-
 ```
 
 ### 2️⃣ Install Dependencies
